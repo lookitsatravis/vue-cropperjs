@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "cropperjs": "lookitsatravis/cropper"
+    "cropperjs": "lookitsatravis/cropper#113b96d895908e893fbe6f4eeaf62f621e165c8c"
   },
   "peerDependencies": {
     "vue": ">=2.0.0"
