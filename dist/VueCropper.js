@@ -8,7 +8,7 @@ var _vue = require('vue');
 
 var _vue2 = _interopRequireDefault(_vue);
 
-var _cropperjs = require('cropperjs');
+var _cropperjs = require('cropperjs/src/js/cropper');
 
 var _cropperjs2 = _interopRequireDefault(_cropperjs);
 
